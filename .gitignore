@@ -129,5 +129,8 @@ dmypy.json
 .pyre/
 
 # ck
+.DS_Store
 .vscode
 old
+NOTES
+tmp/
